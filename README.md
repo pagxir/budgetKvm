@@ -29,7 +29,9 @@ android 手机一台，可以自行编译kernel的那种，比如nexus
 * 游戏自动话脚本，防止游戏作弊检测。
 * 临时给没接显示器的设备当做临时显示器使用。
 
-#参考链接
+# 参考链接
 [编译一](https://github.com/ylqjgm/mknop)
 [编译二](https://github.com/ophub/amlogic-s9xxx-openwrt)
 [刷版本](https://www.right.com.cn/forum/thread-4035964-1-1.html)
+[tightvnc](https://github.com/TurboVNC/tightvnc/wiki)
+[ultravnc](https://github.com/ultravnc/UltraVNC)
