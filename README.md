@@ -22,7 +22,7 @@
 * 视频采集卡，USB口接X96 MAX+， HDMI端接电脑的视频输出。
 
 备选方案
-android 手机一台，可以自行编译kernel的那种，比如nexus,Tanix TX3 Mini, MINIX NEO U22-XJ,X96 Tanix TX3
+android 手机一台，可以自行编译kernel的那种，比如nexus 5, MINIX NEO U22-XJ, X96 Tanix TX3
 
 最后总结：你值得拥有，适合一下使用场景（不限于）：
 * 远程办公，安装操作系统
